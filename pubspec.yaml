@@ -1,10 +1,10 @@
 name: dart_date
-version: 2.0.0
+version: 2.1.0
 homepage: https://github.com/xantiagoma/dart_date
 publish_to: https://onepub.dev/api/jbbxpsdavu/
 description: Date manipulation library. DateTime extensions. Also includes an Interval object.
 environment: 
-  sdk: '>=2.19.0 <3.0.0'
+  sdk: '>=3.0.0 <4.0.0'
 dependencies: 
   intl: ^0.18.0
   timeago: ^3.0.2
